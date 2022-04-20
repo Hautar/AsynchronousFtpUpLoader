@@ -1,5 +1,5 @@
 # AsynchronousFtpUpLoader
-Uploads a file from LocalPath  to an ftp server RemotePath every 30 seconds. Then file is moved from LocalPath to LocalPathDel directory.
+Uploads a file from LocalPath  to an ftp server RemotePath every 30 seconds. Then file is moved from LocalPath to LocalPathUploaded directory.
 
 Simple small example of how you can use FluentFtp to upload files to an ftp server with authorization.
 
